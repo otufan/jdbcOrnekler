@@ -77,7 +77,7 @@ public class Jdbc3DML {
 	 		
 		}
 		st.executeBatch(); //verileri bir seferde database e yollar
-
+		
 	}
 
 }
